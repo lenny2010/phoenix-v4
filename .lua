@@ -200,7 +200,7 @@ function MakeScriptHub()
         Callback = function()
                   print("button pressed")
                 MakeScriptHub()
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/lenny2010/antivote/main/.lua"))() 
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/lenny2010/antikick-v2/main/.lua"))() 
           end
     })
 
