@@ -9,11 +9,11 @@ OrionLib:MakeNotification({
 	Time = 5
 })
 
-_G.Key = "PHOENIX-2377346-9324837"
+_G.Key = "VENOM-289372-273819"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-    local Window = OrionLib:MakeWindow({Name = "Phoenix Paid Version Made By I Placement", HidePremium = false, SaveConfig = true, IntroEnabled = false})
+    local Window = OrionLib:MakeWindow({Name = "Venom Ware Paid Version discord.gg/VenomWare", HidePremium = false, SaveConfig = true, IntroEnabled = false})
 
     local Tab = Window:MakeTab({
         Name = "Aimbot",
